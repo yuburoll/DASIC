@@ -5,3 +5,7 @@ kicad/sym-lib-table
 kicad/~dasic.kicad_pcb.lck
 kicad/~dasic.kicad_sch.lck
 kicad/dasic.kicad_sch-bak
+kicad/backplate/fp-info-cache
+kicad/backplate/dasicBackplate.kicad_prl
+kicad/keyboardplate/fp-info-cache
+kicad/keyboardplate/dasicBackplate.kicad_prl
