@@ -48,6 +48,8 @@ there's some notices before the build:
 
 - Jump every jumpers on back side.
 
+- you may use mill-max styled socket to make the pcb hot-swappable.
+
 ## Default Keymap
 
 ![dasicKeymap](images/dasicKeymap.png)
