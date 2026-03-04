@@ -1,4 +1,4 @@
-![dasicProfile](images/dasicProfile.jpg)
+![dasicPhoto](images/dasicPhoto.jpg)
 
 # DASIC
 
