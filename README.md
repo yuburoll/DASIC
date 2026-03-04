@@ -38,7 +38,7 @@ The name "dasic"(dasik) is korean traditional dessert, and also is pun of [ansic
 
 ## Default Keymap
 
-![dasicKeymap](images/dasicKeymap.jpg)
+![dasicKeymap](images/dasicKeymap.png)
 
 There are two more layers - Num, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
 
@@ -46,7 +46,7 @@ Holding the color legend key swaps the layer.
 
 You may refer to the picture below for the keycap layout:
 
-![dasicKeycap](images/dasicKeycap.jpg)
+![dasicKeycap](images/dasicKeycap.png)
 
 ## Licenses
 
