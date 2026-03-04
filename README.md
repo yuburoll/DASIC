@@ -2,7 +2,7 @@
 
 # DASIC
 
-60-64 key symmetrical row stagger alice styled keyboard
+60-64 key symmetrical row stagger alice style wired split keyboard
 
 The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of [ansic](https://github.com/yuburoll/ANSIC) with many key.
 
