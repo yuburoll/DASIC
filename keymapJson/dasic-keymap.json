@@ -122,11 +122,11 @@
     "H\n\n\nPScr\n\n\n\nNum4",
     "J\n\n\nScrL\n\n\n\nNum5",
     "K\n\n\nBrk\n\n\n\nNum6",
-    "L\n\n\n'\"\n\n\n\nEnter",
+    "L\n\n\n:;\n\n\n\nEnter",
     {
       "t": "#000000\n\n\n#ff0000\n\n\n\n#0000FF"
     },
-    ";:\n\n\n◇\n\n\n\n◇",
+    "' \"",
     {
       "t": "#000000\n\n\n#ff0000\n\n\n\n#0000ff",
       "w": 2.25
