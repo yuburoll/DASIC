@@ -36,6 +36,18 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 - A set of Keycaps
 
+## Build Guides
+
+work in progress. sorry!
+
+there's some notices before the build:
+
+- **You may flash the firmware before soldering the dev board**
+
+- Assemble dev board with 2.5mm height pin headers on front side, assume that components side are faced down.
+
+- Jump every jumpers on back side.
+
 ## Default Keymap
 
 ![dasicKeymap](images/dasicKeymap.png)
