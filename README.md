@@ -14,9 +14,9 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 - 1x printed case sets, 2 parts total, provided from the repo
 
-- 2x keyboard plates, provided from the repo
+- 2x 1.5-1.6T keyboard plates, provided from the repo
 
-- 2x back plates, provided from the repo
+- 2x 1.5-1.6T back plates, provided from the repo
 
 - 0-2x 0.5u blocker, provided from the repo, normally 1
 
