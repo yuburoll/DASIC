@@ -42,13 +42,13 @@ work in progress. sorry!
 
 there's some notices before the build:
 
-- **You may flash the firmware before soldering the dev board**
+- **You may flash the firmware before soldering the dev board.**
 
 - Assemble dev board with 2.5mm height pin headers on front side, assume that components side are faced down.
 
 - Jump every jumpers on back side.
 
-- you may use mill-max styled socket to make the pcb hot-swappable.
+- You may use mill-max styled socket to make the pcb hot-swappable.
 
 ## Default Keymap
 
