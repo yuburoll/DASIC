@@ -8,7 +8,7 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 ## Preparation
 
-- 2x pro micro
+- 2x pro micro form factor dev board
 
 - 2x dasic PCB Boards, provided from the repo
 
