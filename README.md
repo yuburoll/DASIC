@@ -50,7 +50,7 @@ there's some notices before the build:
 
 - Jump every jumpers on back side.
 
-- You may use mill-max styled socket to make the pcb hot-swappable.
+- You may use mill-max styled socket to make the keyswitches hot-swappable.
 
 ## Default Keymap
 
