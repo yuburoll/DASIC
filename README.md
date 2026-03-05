@@ -24,7 +24,7 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 - 64x diodes
 
-- 24x M2x6 screws, flathead
+- 24-30x M2x6 screws, flathead
 
 - 2x PJ320A 1/8(3.5mm) TRRS connector
 
