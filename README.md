@@ -52,6 +52,8 @@ there's some notices before the build:
 
 - You may use mill-max styled socket to make the keyswitches hot-swappable.
 
+- If you soldering mill-max, be aware of Caps&Enter position, align well to center of pad mask.
+
 ## Default Keymap
 
 ![dasicKeymap](images/dasicKeymap.png)
