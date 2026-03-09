@@ -8,6 +8,8 @@
 
 The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of [ansic](https://github.com/yuburoll/ANSIC) with many key.
 
+this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](hotswapVersion) with some major difference.
+
 ## Preparation
 
 - 2x pro micro form factor dev board
@@ -75,3 +77,5 @@ all designs and the hardware board follow CC BY-SA 4.0 license.
 If you want to make a commercial product, it would be appreciated if you sponsor some bucks for me.
 
 ![dasicCase](images/dasicCase.png)
+
+![dasicPCB](images/dasicPCB.png)
