@@ -16,6 +16,8 @@ this folder is for hotswap version for dasic.
 
 - This version cannot change Caps/Enter keycap to another sized one.
 
-- Be careful when soldering hot swap socket for space bar positions - there will be some small pad, so you may solder these more tightly.
+- Be careful when soldering hot swap socket for space bar positions - there will be soldered small pad pieces, so you may solder these more tightly.
+
+
 
 ![dasicHotswap](../images/dasicHotswapPCB.png)
