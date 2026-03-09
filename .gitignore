@@ -11,3 +11,8 @@ kicad/keyboardplate/fp-info-cache
 kicad/keyboardplate/dasicBackplate.kicad_prl
 kicad/dasic.kicad_prl
 kicad/dasic.kicad_prl
+/hotswap/kicad/ansic-CustomFoot.pretty
+hotswap/kicad/sym-lib-table
+hotswap/kicad/fp-info-cache
+hotswap/kicad/fp-lib-table
+hotswap/kicad/dasicHotswap.kicad_prl
