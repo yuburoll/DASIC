@@ -1,6 +1,6 @@
 # DASIC hotswap version
 
-this folder is for hotswap version for dasic.
+this folder is for hotswap version of dasic.
 
 ### Notice
 
