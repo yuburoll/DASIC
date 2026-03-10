@@ -1,8 +1,8 @@
 {
     "lighting": "none",
     "matrix": {
-        "rows": 8,
-        "cols": 6
+        "rows": 10,
+        "cols": 7
     },
     "layouts": {
         "labels": [ "Split Left Thumb", "Merge Right Thumb", "Split Left Shift", "Merge Left Shift", "Caps 2.25u", "Enter 1.75u"],
@@ -11,8 +11,6 @@
   {
     "name": "dasic"
   },
- 
-  
   [
     {
       "x": 0.25
@@ -70,7 +68,7 @@
       "w": 0.5,
       "d": true
     },
-    "2,1\n\n\n4,0",
+    "\n\n\n4,0",
     "2,2",
     "2,3",
     "2,4",
@@ -163,7 +161,7 @@
       "w": 0.5,
       "d": true
     },
-    "7,1\n\n\n5,1",
+    "\n\n\n5,1",
     {
       "w": 1.75
     },
