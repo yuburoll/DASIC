@@ -149,7 +149,7 @@ Inspect the solder joints and their positions to verify that the assembly is cor
 
 ![plates1](../images/dasicBuildKeyboardPlates1.jpg)
 
-![plates2](../images/dasicBuildKeyboardPlates.jpg)
+![plates2](../images/dasicBuildKeyboardPlates2.jpg)
 
 Pre-install the switches and blockers onto the keyboard plate. The photo also shows keycaps installed, but you do not need to install keycaps at this stage.
 
