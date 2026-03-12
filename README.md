@@ -2,6 +2,8 @@
 
 # DASIC
 
+[한국어 설명은 여기에서 보실 수 있습니다](README_ko.md)
+
 (pronounced like DAH-sick)
 
 60-64 key symmetrical row stagger alice style wired split keyboard
@@ -42,7 +44,7 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 ## Build Guides
 
-work in progress. sorry!
+[Here](documents/buildGuide.md)
 
 there's some notices before the build:
 

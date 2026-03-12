@@ -25,9 +25,9 @@ rp2040 보드를 사용할 때를 상정했습니다.
 
 ## 컨트롤러 보드 납땜하기
 
-![headerPin0](../images/dasicBuildHeaderPin0)
+![headerPin0](../images/dasicBuildHeaderPin0.jpg)
 
-![headerPin1](../images/dasicBuildHeaderPin1)
+![headerPin1](../images/dasicBuildHeaderPin1.jpg)
 
 우선 컨트롤러 보드와 동봉되는 헤더핀의 한 줄을 뗍니다. usb와 제일 가까운 헤더 핀 부분은 납땜하지 않기 때문입니다.
 
