@@ -6,7 +6,7 @@ This documents is translated by generative AI, so there can be some misleading t
 
 ## Supplies
 
-- Soldering iron & stand: A chisel tip is the most convenient to work with. We recommend getting one that can maintain a temperature of at least 400–500°C.
+- Soldering iron & stand: A chisel tip is the most convenient to work with. I recommend getting one that can maintain a temperature of at least 400–500°C.
 
 - Solder: Choose between leaded and lead-free solder. Leaded solder is less stressful to work with, but it is not good for your health.
 

@@ -40,11 +40,13 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 - 60-64x MX Keyswitches, normally 62
 
+- 8x 10mm bumpon stickers
+
 - A set of Keycaps
 
 ## Build Guides
 
-[Here](documents/buildGuide.md)
+[**DASIC Build Guide**](documents/buildGuide.md)
 
 there's some notices before the build:
 
