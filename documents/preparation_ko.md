@@ -16,7 +16,7 @@
 
 - JLCPCB에서 FR4 1.6mm HASL(no lead)(중요)를 맡기거나, 3d 프린팅을 직접 하거나(이 두께는 보통 안 해줍니다), 임의의 판재 레이저/cnc커팅점에서 백플레이트와 보강판을 맡깁니다. 각각 원하는 도면으로 구매합니다. 백플레이트와 보강판을 각각 한 쌍씩 준비해주세요.
 
-- JLCPCB에 맡길 땐 거버 폴더[(솔더링판)](../case/platesGerber)[(핫스왑판)](../hotswapVersion/HotswapPlate/hotswapPlateGerber) 안의 하위 폴더들에서 원하는 도면의 거버 압축 파일을 다운로드 받아 사이트에 업로드하면 됩니다. https://jlcpcb.com/
+- JLCPCB에 맡길 땐 거버 폴더[(솔더링판 및 백플레이트)](../case/platesGerber)[(핫스왑판)](../hotswapVersion/HotswapPlate/hotswapPlateGerber) 안의 하위 폴더들에서 원하는 도면의 거버 압축 파일을 다운로드 받아 사이트에 업로드하면 됩니다. https://jlcpcb.com/
 
 - fdm이나 sls 출력을 할 땐 [stl 폴더](../case/stl) 안의 내용물들 중 원하는 사양을 다운로드 받아 출력해주시면 됩니다.
 
