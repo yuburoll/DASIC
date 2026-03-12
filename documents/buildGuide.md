@@ -36,7 +36,7 @@ The firmware uses [QMK](https://qmk.fm/). If you want to build your own firmware
 
 Once fully assembled, the Boot button becomes inaccessible, which causes issues. Therefore, **I recommend flashing the firmware before soldering the controller board**.
 
-To enter DFU mode after flashing the firmware, hold the innermost key of the thumb cluster (thumb buttons) while connecting the keyboard.
+To enter DFU mode after flashing the firmware, hold the bottommost outermost switch (Left Ctrl or Fn position) while connecting the keyboard.
 
 ## Soldering the Controller Board
 
