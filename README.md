@@ -44,7 +44,7 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 ## Build Guides
 
-[Here](documents/buildGuide.md)
+[**DASIC Build Guide**](documents/buildGuide.md)
 
 there's some notices before the build:
 
