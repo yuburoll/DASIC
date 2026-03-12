@@ -40,6 +40,8 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 - 60-64x MX Keyswitches, normally 62
 
+- 8x 10mm bumpon stickers
+
 - A set of Keycaps
 
 ## Build Guides
