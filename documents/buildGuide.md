@@ -15,11 +15,11 @@ This guide assumes the use of an rp2040 board.
 
 Hold the Boot button on the controller board while connecting the USB cable, and a removable drive will appear. (This is called DFU mode.)
 
-Drag and drop the .uf2 file from the [uf2examples folder](../firmware/nologoRP2040qmk/examples) into the removable drive to flash the firmware. We recommend flashing the Vial firmware.
+Drag and drop the .uf2 file from the [uf2examples folder](../firmware/nologoRP2040qmk/examples) into the removable drive to flash the firmware. I recommend flashing the Vial firmware.
 
 The firmware uses [QMK](https://qmk.fm/). If you want to build your own firmware, copy the "modubu" folder from the "firmware/qmk" directory into the "qmk_firmware\keyboards" directory and build it using QMK MSYS.
 
-Once fully assembled, the Boot button becomes inaccessible, which causes issues. Therefore, **we recommend flashing the firmware before soldering the controller board**.
+Once fully assembled, the Boot button becomes inaccessible, which causes issues. Therefore, **I recommend flashing the firmware before soldering the controller board**.
 
 To enter DFU mode after flashing the firmware, hold the innermost key of the thumb cluster (thumb buttons) while connecting the keyboard.
 
@@ -75,7 +75,7 @@ Position the TRRS connector so that it sits on the front side of each hand, and 
 
 ![jackSolder3](../images/dasicBuildJackSolder3.jpg)
 
-While looking at this side, bridge the three jumper pads near the text "JUMP when BACK SIDE" with solder. Do not do this on the opposite side (= the top side where the connector is mounted).
+While looking at back side, bridge the three jumper pads near the text "JUMP when BACK SIDE" with solder. Do not do this on the opposite side (= the front side where the connector is mounted).
 
 Solder these jumpers using the same technique as the jumpers on the back of the controller board.
 
@@ -111,7 +111,7 @@ When the solder on the pad melts, place one leg of the SMD diode to align it, th
 
 ## (Optional) Soldering the SMD Switch
 
-The SMD switch is connected to the reset pin. For processor boards other than the rp2040, this switch is used to enter DFU mode.
+The SMD switch is connected to the reset pin. For processor boards other than the rp2040, this switch is used to enter DFU mode. solder this switch on the back side.
 
 The method is the same as for SMD diodes. Pre-tin one pad at the switch position, then reheat that pad.
 
@@ -179,4 +179,4 @@ Once the assembly is inserted into the case, it will look like this.
 
 After securing the screws, attach the back plate to the case. There are 7 fastening points per keyboard half.
 
-Finally, attach the 4 bumpon pieces at the bumpon positions on the back plate, and you are done.
+Finally, attach the 4 bumpon pieces at the bumpon positions on the each back plate, and you are done.
