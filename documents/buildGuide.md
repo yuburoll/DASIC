@@ -8,6 +8,21 @@ This documents is translated by generative AI, so there can be some misleading t
 
 [**Soldering Tips**](solderingTip.md)
 
+### Estimated Fabrication BOM
+
+for only one set of DASIC:
+
+![fabPCB](../images/dasicBOMpcb.png)
+
+![fabCase](../images/dasicBOMcase.png)
+
+for five set of DASIC:
+
+![fab10PCB](../images/dasicBOM5piecesPCB.png)
+
+![fab5Case](../images/dasicBOM5piecesCase.png)
+
+The lowest per-unit cost comes from building five sets (approximately $45 each), but even building just two sets can bring the per-unit manufacturing cost down to around $55.
 
 ## Flashing Firmware onto the Controller Board
 

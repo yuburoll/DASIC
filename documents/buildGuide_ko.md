@@ -8,6 +8,25 @@ DASIC의 빌드 가이드입니다.
 
 [**납땜 팁**](solderingTip_ko.md)
 
+### 제조 예상 가격
+
+한 세트만 빌드할 때:
+
+![fabPCB](../images/dasicBOMpcb.png)
+
+![fabCase](../images/dasicBOMcase.png)
+
+![fabResult](../images/dasicBOMcalc.png)
+
+다섯 세트를 빌드할 때:
+
+![fab10PCB](../images/dasicBOM5piecesPCB.png)
+
+![fab5Case](../images/dasicBOM5piecesCase.png)
+
+![fab5Result](../images/dasicBOM5piecesCalc.png)
+
+빌드시 제일 개당 단가가 적은 건 다섯 세트(약 45달러)지만, 두 세트만 빌드해도 개당 제조 단가를 55달러 가량으로 가져갈 수 있습니다.
 
 ## 컨트롤러 보드에 펌웨어 올리기
 
