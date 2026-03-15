@@ -2,9 +2,9 @@
 
 this is folder for DASIC's Backside Component Case.
 
-this have little big differences for the basic build so I didn't put on the reference case, but this have more stronger structure. I recommend this build if you want to get tilted case.
+this have big differences compared to the basic build so I didn't put this on the reference case, but this have more stronger structure. I recommend this case if you want to get tilted case.
 
-Major differences for build:
+Major differences at build:
 
 - You may put Dev board modules and TRRS jacks on BACK SIDE.
 
