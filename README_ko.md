@@ -40,9 +40,13 @@
 
 - 키캡 세트, 텐키 포함을 추천합니다
 
-## 빌드가이드
+## 빌드가이드와 개조
 
-[빌드가이드 보러가기](documents/buildGuide_ko.md)
+[**빌드가이드 보러가기**](documents/buildGuide_ko.md)
+
+[**개조 1: 핫스왑 PCB**](hotswapVersion)
+
+[**개조 2: 뒷면 부품 케이스**](case/backsideComponentsCase)
 
 주의사항 요약은 다음과 같습니다.
 

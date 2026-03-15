@@ -44,9 +44,13 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 - A set of Keycaps
 
-## Build Guides
+## Build Guides and Miscellaneous
 
 [**DASIC Build Guide**](documents/buildGuide.md)
+
+[**Misc 1: Hotswappable PCB**](hotswapVersion)
+
+[**Misc 2: Backside Components Casing**](case/backsideComponentsCase)
 
 there's some notices before the build:
 
