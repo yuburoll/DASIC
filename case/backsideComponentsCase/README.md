@@ -2,7 +2,9 @@
 
 this is folder for DASIC's Backside Component Case.
 
-this have big differences compared to the basic build so I didn't put this on the reference case, but this have more stronger structure. I recommend this case if you want to get tilted case.
+this have big differences compared to the basic build so I didn't put this on the reference case, but this have more stronger structure.
+
+I recommend this case if you want to get tilted case.
 
 Major differences at build:
 
@@ -20,7 +22,9 @@ Major differences at build:
 
 이 폴더는 다식의 뒷면 부품용 케이스를 위한 폴더입니다.
 
-기본 빌드랑 차이가 있기 때문에 메인 폴더에 집어넣지 않고 따로 구분해두었지만, 좀 더 단단한 구조를 가지고 있습니다. (알루미늄 cnc도 맡길 수 있지 않을까 생각합니다. 도면에서 나사구멍을 전부 M2로 지정해야 하겠지만요.) 틸팅된 케이스를 만드신다면 이 쪽을 추천합니다.
+기본 빌드랑 차이가 있기 때문에 메인 폴더에 집어넣지 않고 따로 구분해두었지만, 좀 더 단단한 구조를 가지고 있습니다. (알루미늄 cnc도 맡길 수 있지 않을까 생각합니다. 도면에서 나사구멍을 전부 M2로 지정해야 하겠지만요.)
+
+틸팅된 케이스를 만드신다면 이 쪽을 추천합니다.
 
 빌드의 주요 차이점은 다음과 같습니다.
 
