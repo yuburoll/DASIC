@@ -50,7 +50,7 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 [**Misc 1: Hotswappable PCB**](hotswapVersion)
 
-[**Misc 2: Backside Component Case**](case/backsideComponentsCase)
+[**Misc 2: Legacy versions**](legacy)
 
 there's some notices before the build:
 

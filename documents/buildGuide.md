@@ -4,6 +4,8 @@ This is the build guide for DASIC.
 
 This documents is translated by generative AI, so there can be some misleading texts.
 
+**Images of the build guide are based on V1. I'm currently working on V2. read direction first, carefully.**
+
 ### Additional Resources
 
 [**Soldering Tips**](solderingTip.md)
@@ -60,21 +62,17 @@ If you have a breadboard, seating the header pins on it as shown above makes sol
 
 Solder the processor board you just prepared onto the PCB.
 
-**The side where the processor board is mounted becomes the front of the PCB, and the opposite side becomes the back. Flip the PCB according to whether it is for the left or right hand, then mount the processor board.**
+**The side where the processor board is mounted becomes the BACK of the PCB, and the opposite side becomes the FRONT. Flip the PCB according to whether it is for the left or right hand, then mount the processor board.**
 
 ![processorSolder4](../images/dasicBuildProcessorSolder4.jpg)
 
-Looking at the back of the PCB, solder all the header pins and jumpers.
+**NOTICE: The photo avove is for V1, V2 have different header footprint.**
 
-When soldering jumpers, first coat the soldering iron tip generously with solder paste, then melt a bead of solder onto it. In this state, bring the bead to the jumper pads and pull away once the two pads are bridged.
+Looking at the front of the PCB, solder all the header pins to pads.
 
-- If the pads are bridged but the solder forms a sharp, pointy peak, apply more solder paste to the tip.
+The actual V2 footprint looks like the following. There is no THT hole in the center, and pads are positioned above and below. Please apply a generous amount of solder to connect the pads and pins.
 
-- If the pads are not bridging and the solder just beads up on one pad, add more solder to the tip.
-
-- Success is when the pads are bridged with a smooth, dome-shaped bead. Move on to the next jumper.
-
-If it is not working, let the jumper area cool for a moment, apply a generous amount of flux to both the tip and the jumper, and try again.
+![v2pad](../images/dasicV2Pad.png)
 
 ## Soldering the Connector & Jumping
 
@@ -86,13 +84,21 @@ If it is not working, let the jumper area cool for a moment, apply a generous am
 
 ![jackSolder2](../images/dasicBuildJackSolder2.jpg)
 
-Position the TRRS connector so that it sits on the front side of each hand, and solder from the back side. Using masking tape or similar to hold it in place while soldering is recommended.
+Position the TRRS connector so that it sits on the back side of each hand, and solder from the front side. Using masking tape or similar to hold it in place while soldering is recommended.
 
-![jackSolder3](../images/dasicBuildJackSolder3.jpg)
+While looking at back side, bridge the three jumper pads near the text "JUMP when BACK SIDE" with solder. Do not do this on the opposite side (= the front side where the connector isn't mounted).
 
-While looking at back side, bridge the three jumper pads near the text "JUMP when BACK SIDE" with solder. Do not do this on the opposite side (= the front side where the connector is mounted).
+When soldering jumpers, first coat the soldering iron tip generously with solder paste, then melt a bead of solder onto it. In this state, bring the bead to the jumper pads and pull away once the two pads are bridged.
 
-Solder these jumpers using the same technique as the jumpers on the back of the controller board.
+- If the pads are bridged but the solder forms a sharp, pointy peak, apply more solder paste to the tip.
+
+- If the pads are not bridging and the solder just beads up on one pad, add more solder to the tip.
+
+- Success is when the pads are bridged with a smooth, dome-shaped bead. Move on to the next jumper.
+
+If it is not working, let the jumper area cool for a moment, apply a generous amount of flux to both the tip and the jumper, and try again.
+
+Do not hesitate; wait patiently and check lead shape.
 
 ## Soldering the Diodes
 
@@ -174,17 +180,24 @@ To install the blockers, tighten the screws as shown in the photo above. If usin
 
 ![plates3](../images/dasicBuildKeyboardPlates3.jpg)
 
+**NOTICE: The photo avove is for V1, you must position dev board and jack on back side (opposite side).**
+
 Place the assembled board on top as shown in the photo, and solder the switches.
+
 
 ## Assembling the Case
 
 ![case0](../images/dasicBuildCaseAssemble0.jpg)
+
+**NOTICE: The photo avove is for V1, you must position dev board and jack on back side (opposite side).**
 
 Insert the plate and PCB assembly into the case.
 
 As shown in the photo, tilt the assembly and insert the TRRS socket end first to position it correctly.
 
 ![case1](../images/dasicBuildCaseAssemble1.jpg)
+
+**NOTICE: The photo avove is for V1, you must position dev board and jack on back side (opposite side).**
 
 Once the assembly is inserted into the case, it will look like this.
 
