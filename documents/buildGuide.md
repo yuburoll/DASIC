@@ -58,8 +58,6 @@ If you have a breadboard, seating the header pins on it as shown above makes sol
 
 ![processorSolder2](../images/dasicBuildProcessorSolder2.jpg)
 
-![processorSolder3](../images/dasicBuildProcessorSolder3.jpg)
-
 Solder the processor board you just prepared onto the PCB.
 
 **The side where the processor board is mounted becomes the BACK of the PCB, and the opposite side becomes the FRONT. Flip the PCB according to whether it is for the left or right hand, then mount the processor board.**
