@@ -62,8 +62,6 @@ rp2040 보드를 사용할 때를 상정했습니다.
 
 ![processorSolder2](../images/dasicBuildProcessorSolder2.jpg)
 
-![processorSolder3](../images/dasicBuildProcessorSolder3.jpg)
-
 방금전에 납땜한 프로세서 보드를 pcb에 납땜합니다.
 
 **프로세서 보드를 올린 면이 pcb의 뒷면이 되고, 반대편 면은 앞면이 됩니다. 왼손과 오른손에 맞춰 pcb를 뒤집어 프로세서 보드를 올려주세요.**
