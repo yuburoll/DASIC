@@ -1,6 +1,6 @@
 ![dasicPhoto](V2/images/dasicPhoto.jpg)
 
-# DASIC
+# DASIC 다식
 
 (pronounced like DAH-sick)
 
@@ -12,8 +12,6 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 [**V1 README**](V1/README.md) (deprecated since May 22, 2026)
 
-# DASIC 다식
-
 60-64 좌우대칭 앨리스 배열 스플릿 키보드
 
 키 수 많은 [안식](https://github.com/yuburoll/ANSIC)이라는 농담을 치고 싶었습니다.
@@ -22,15 +20,13 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 [**V1 README**](V1/README_ko.md) (2026년 3월 22일부터 지원 종료)
 
-## Licenses
+## 라이센스 Licenses
 
 all codes follow MIT license.
 
 all designs and the hardware board follow CC BY-SA 4.0 license.
 
 If you want to make a commercial product, it would be appreciated if you sponsor some bucks for me.
-
-## 라이센스
 
 모든 코드는 MIT license를 따릅니다.
 
