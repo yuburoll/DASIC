@@ -42,7 +42,7 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 - 8x 10mm bumpon stickers
 
-- A set of Keycaps
+- A set of Keycaps, Full-size ANSI layout
 
 ## Build Guides and Miscellaneous
 

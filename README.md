@@ -36,6 +36,6 @@ If you want to make a commercial product, it would be appreciated if you sponsor
 
 본 디자인을 가지고 상업활동을 하고 싶으시다면, 몇 푼 정도 후원해주시면 감사하겠습니다...
 
-![dasicCase](images/dasicCase.png)
+![dasicCase](V2/images/dasicCase.png)
 
-![dasicPCB](images/dasicPCB.png)
+![dasicPCB](V2/images/dasicPCB.png)
