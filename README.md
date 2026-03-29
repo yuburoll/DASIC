@@ -8,8 +8,9 @@
 
 The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of [ansic](https://github.com/yuburoll/ANSIC) with many key.
 
-[V2 README](V2/README.md)
-[V1 README(deprecated since May 22, 2026)](V1/README.md)
+[**V2 README**](V2/README.md)
+
+[**V1 README**](V1/README.md) (deprecated since May 22, 2026)
 
 # DASIC 다식
 
@@ -17,8 +18,9 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 키 수 많은 [안식](https://github.com/yuburoll/ANSIC)이라는 농담을 치고 싶었습니다.
 
-[V2 README](V2/README_ko.md)
-[V1 README(2026년 3월 22일부터 지원 종료)](V1/README_ko.md)
+[**V2 README**](V2/README_ko.md)
+
+[**V1 README**](V1/README_ko.md) (2026년 3월 22일부터 지원 종료)
 
 ## Licenses
 
