@@ -14,7 +14,7 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 [**V1 README**](V1/README.md) (deprecated since May 22, 2026)
 
-# DASIC 다식
+# 다식
 
 60-64 좌우대칭 앨리스 배열 스플릿 키보드
 
