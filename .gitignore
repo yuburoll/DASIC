@@ -77,3 +77,10 @@ V2/kicad/sym-lib-table
 V1/kicad/sym-lib-table
 V2/kicad/fp-lib-table
 V1/kicad/fp-lib-table
+V2-375u/kicad/fp-lib-table
+V2-375u/kicad/fp-info-cache
+V2-375u/kicad/backplate/fp-info-cache
+V2-375u/kicad/keyboardplate/fp-info-cache
+V2-375u/kicad/sym-lib-table
+*.kicad_prl
+/V2-375u/kicad/dasic-backups

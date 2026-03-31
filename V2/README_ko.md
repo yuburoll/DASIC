@@ -1,6 +1,6 @@
 ![dasicPhoto](images/dasicPhoto.jpg)
 
-# DASIC 다식
+# DASIC 다식 v2
 
 60-64 좌우대칭 앨리스 배열 스플릿 키보드
 
@@ -46,7 +46,7 @@
 
 [**추가자료 1: 핫스왑 PCB**](hotswapVersion)
 
-[**추가자료 2: 이전 버젼**](legacy)
+[**추가자료 2: 이전 버젼**](../V1)
 
 주의사항 요약은 다음과 같습니다.
 

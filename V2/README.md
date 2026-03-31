@@ -1,6 +1,6 @@
 ![dasicPhoto](images/dasicPhoto.jpg)
 
-# DASIC
+# DASIC v2
 
 [한국어 설명은 여기에서 보실 수 있습니다](README_ko.md)
 
@@ -50,7 +50,7 @@ this keyboard have solder-only PCB, but you can also choose [hotswappable PCB](h
 
 [**Misc 1: Hotswappable PCB**](hotswapVersion)
 
-[**Misc 2: Legacy versions**](legacy)
+[**Misc 2: Legacy versions**](../V1)
 
 there's some notices before the build:
 

@@ -10,7 +10,7 @@
 
 - JLCPCB에서 맡기면 배송비 포함 25달러 가량에 제조할 수 있습니다. https://jlcpcb.com/
 
-- [거버 폴더](../gubber) 안의 [dasic-gerber.zip(솔더링판)](../gerber/dasic-gerber.zip)이나  [dasicHotswap-gerber.zip(핫스왑판)](../hotswapVersion/gerber/dasicHotswap-gerber.zip)을 다운로드 받아 사이트에 올려주시면 됩니다.
+- [거버 폴더](../gerber) 안의 [dasic-gerber.zip(솔더링판)](../gerber/dasic-gerber.zip)이나  [dasicHotswap-gerber.zip(핫스왑판)](../hotswapVersion/gerber/dasicHotswap-gerber.zip)을 다운로드 받아 사이트에 올려주시면 됩니다.
 
 ## 보강판과 백플레이트
 

@@ -10,6 +10,8 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 [**V2 README**](V2/README.md)
 
+[**V2 3.75u README**](V2-375u/README.md)
+
 [**V1 README**](V1/README.md) (deprecated since May 22, 2026)
 
 # DASIC 다식
@@ -18,9 +20,11 @@ The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of
 
 키 수 많은 [안식](https://github.com/yuburoll/ANSIC)이라는 농담을 치고 싶었습니다.
 
-[**V2 README**](V2/README_ko.md)
+[**V2 설명서**](V2/README_ko.md)
 
-[**V1 README**](V1/README_ko.md) (2026년 3월 22일부터 지원 종료)
+[**V2 3.75u 설명서**](V2-375u/README_ko.md)
+
+[**V1 설명서**](V1/README_ko.md) (2026년 3월 22일부터 지원 종료)
 
 ## Licenses
 
