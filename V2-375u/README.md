@@ -1,5 +1,3 @@
-![dasicPhoto](images/dasicPhoto.jpg)
-
 # DASIC v2 3.75u
 
 [한국어 설명은 여기에서 보실 수 있습니다](README_ko.md)
@@ -11,6 +9,8 @@
 The name "dasic"(dasik) is korean traditional dessert, and also is korean pun of [ansic](https://github.com/yuburoll/ANSIC) with many key.
 
 this keyboard have difference on thumb cluster, which have 3.75u length.(the original one have 4u)
+
+you may check the keycap layout under the Default Keymap title.
 
 ## Preparation
 
