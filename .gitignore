@@ -84,3 +84,5 @@ V2-375u/kicad/keyboardplate/fp-info-cache
 V2-375u/kicad/sym-lib-table
 *.kicad_prl
 /V2-375u/kicad/dasic-backups
+/V2-375u/kicad/dasicHotswap-backups
+V2-375u/kicad/~dasicHotswap.kicad_pcb.lck
