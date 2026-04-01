@@ -48,10 +48,6 @@ you may check the keycap layout under the Default Keymap title.
 
 [**DASIC Build Guide**](documents/buildGuide.md)
 
-[**Misc 1: Hotswappable PCB**](hotswapVersion)
-
-[**Misc 2: Legacy versions**](legacy)
-
 there's some notices before the build:
 
 - **You may flash the firmware before soldering the dev board.**
