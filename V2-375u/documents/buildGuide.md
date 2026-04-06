@@ -64,13 +64,9 @@ Solder the processor board you just prepared onto the PCB.
 
 ![processorSolder4](../images/dasicBuildProcessorSolder4.jpg)
 
-**NOTICE: The photo avove is for V1, V2 have different header footprint.**
-
 Looking at the front of the PCB, solder all the header pins to pads.
 
-The actual V2 footprint looks like the following. There is no THT hole in the center, and pads are positioned above and below. Please apply a generous amount of solder to connect the pads and pins.
-
-![v2pad](../images/dasicV2Pad.png)
+There is no THT hole in the center, and pads are positioned above and below. Please apply a generous amount of solder to connect the pads and pins.
 
 ## Soldering the Connector & Jumping
 
